@@ -13,3 +13,6 @@
 [submodule "Bt05"]
 	path = Bt05
 	url = https://github.com/hoanghai-bot206/bt05.git
+[submodule "bt06"]
+	path = bt06
+	url = https://github.com/hoanghai-bot206/bt06.git
